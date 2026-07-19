@@ -1,5 +1,4 @@
-<style>
-  :root{
+:root{
     --bg: #0a0d13;
     --bg-alt: #0d1119;
     --surface: #121826;
@@ -263,4 +262,3 @@
     .skills-grid{grid-template-columns:1fr;}
     .contact-box{padding:40px 24px;}
   }
-</style>
